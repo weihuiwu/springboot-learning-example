@@ -3,3 +3,8 @@ demo:
     book:
         name: 《Spring Boot 2.x 核心技术实战 - 上 基础篇》
         writer: 泥瓦匠BYSocket
+
+# #启动
+#spring:
+#    profiles:
+#        active: dev
